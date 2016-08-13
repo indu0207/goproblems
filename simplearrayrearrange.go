@@ -1,6 +1,6 @@
 package main
 
-/*import "fmt"
+import "fmt"
 
 func main() {
 
@@ -32,4 +32,4 @@ func main() {
 	}
 	fmt.Printf("Swapped array is %v \n", B)
 }
-*/
+
